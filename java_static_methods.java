@@ -13,7 +13,7 @@ class Mobile {
 }
 
 public class java_static_methods {
-    public static void main(String a[]) {
+    public static void main1(String a[]) {
         Mobile m = new Mobile();
         m.Name = "J10";
         m.price = 1200;

@@ -7,7 +7,7 @@ class Computer {
 }
 
 public class java_1 {
-    public static void main(String a[]) {
+    public static void main1(String a[]) {
 
         Computer c1=new Computer();
         Computer c2=new Computer();

@@ -1,5 +1,5 @@
 public class try_catch {
-    public static void main(String a[]) {
+    public static void main1(String a[]) {
         int i = 9;
         int j = 0;
         try {

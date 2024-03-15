@@ -14,7 +14,7 @@ class Computer {
 }
 
 public class without_this_set_value {
-    public static void main(String a[]) {
+    public static void main1(String a[]) {
         Computer obj1 = new Computer();
         obj1.setAge(10, obj1);
         System.out.println(obj1.getAge());
